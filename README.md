@@ -1,2 +1,2 @@
-# CV
-CV Url :  https://deyananya.github.io/CV/
+# Personal-Site
+URL: https://deyananya.github.io/Personal-Site/
